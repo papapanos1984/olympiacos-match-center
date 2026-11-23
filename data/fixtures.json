@@ -1,1 +1,8 @@
-{"updated_at":null,"matches":[],"warnings":["Fixture feed has not yet been populated. Run the update workflow."]}
+{
+  "updated_at": "2026-11-23T12:14:20.031542Z",
+  "matches": [],
+  "warnings": [
+    "No upcoming football fixtures verified from configured feeds; Greek Cup may require an additional source.",
+    "Greek basketball league/cup and Greek football cup require additional verified fixture feeds."
+  ]
+}
