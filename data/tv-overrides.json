@@ -1,0 +1,4 @@
+{
+  "_instructions": "TV channels require verification. Add an entry with the match key and confirmed broadcaster. Keys are YYYY-MM-DD|sport|home|away (lowercase). Never add a channel based only on competition-wide rights.",
+  "matches": {}
+}
